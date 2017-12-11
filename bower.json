@@ -1,0 +1,30 @@
+{
+  "name": "olive",
+  "authors": [
+    "hieplq <lequanghiep74@gmail.com>"
+  ],
+  "description": "clone",
+  "main": "bower",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "owl.carousel": "^2.2.1",
+    "bootstrap": "^3.3.7",
+    "classie": "^1.0.1",
+    "isotope": "^3.0.4",
+    "magnific-popup": "^1.1.0",
+    "aos": "^2.2.0",
+    "jquery-validation": "^1.17.0",
+    "loaders.css": "^0.1.2",
+    "components-font-awesome": "^4.7.0",
+    "simple-line-icons": "^2.4.1",
+    "device.js": "devices#^0.0.2"
+  }
+}
